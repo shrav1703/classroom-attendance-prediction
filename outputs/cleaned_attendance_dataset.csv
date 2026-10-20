@@ -1,0 +1,295 @@
+Date,Day,Lecture Number,Start Time,Subject,Faculty ID,Semester,Branch,Section,Classroom,Total Enrolled Students,Students Present,Attendance %,Previous Lecture Attendance,Practical/Theory,Test Week,Assignment Due,Holiday,Weather,Special Event,Lecture Occurred,Faculty Experience,Day Number,Week Number,Day of Semester,Month,Day of Month,Hour,Time of Day,Previous 3 Lecture Average
+2026-06-15,Monday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Classroom beside Lab,200,106,53.0,48.0,Practical,No,No,No,Rainy,No,Yes,10 years,0,1,1,6,15,8,Morning,48.0
+2026-06-15,Monday,2,09:15,Mobile Application Development Hands-on,Visiting,3,MCA,A+B Combined,Computer Lab,200,184,92.0,53.0,Practical,No,No,No,Rainy,No,Yes,8 years,0,1,1,6,15,9,Morning,53.0
+2026-06-15,Monday,3,10:15,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,96,48.0,92.0,Practical,No,No,No,Rainy,No,Yes,10 years,0,1,1,6,15,10,Morning,72.5
+2026-06-15,Monday,4,11:15,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Computer Lab,200,158,79.0,48.0,Theory,No,Yes,No,Cloudy,No,Yes,9 years,0,1,1,6,15,11,Morning,64.33333333333333
+2026-06-15,Monday,5,13:30,Cloud Computing Certification Training,KSD,3,MCA,A+B Combined,Computer Lab,200,175,87.5,79.0,Practical,No,No,No,Rainy,No,Yes,8 years,0,1,1,6,15,13,Afternoon,73.0
+2026-06-16,Tuesday,1,08:30,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Computer Lab,200,148,74.0,87.5,Theory,No,Yes,No,Cloudy,No,Yes,8 years,1,1,2,6,16,8,Morning,71.5
+2026-06-16,Tuesday,2,09:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,92,46.0,74.0,Theory,No,No,No,Rainy,No,Yes,8 years,1,1,2,6,16,9,Morning,80.16666666666667
+2026-06-16,Tuesday,3,10:15,Soft Skill Evaluation,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,108,54.0,46.0,Assessment,No,No,No,Rainy,No,Yes,7 years,1,1,2,6,16,10,Morning,69.16666666666667
+2026-06-16,Tuesday,4,11:15,Lab Session,SSP,3,MCA,A+B Combined,Computer Lab,200,84,42.0,54.0,Practical,No,No,No,Rainy,No,Yes,9 years,1,1,2,6,16,11,Morning,58.0
+2026-06-16,Tuesday,5,13:30,CI/CD Session,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,76,38.0,42.0,Practical,No,No,No,Rainy,No,Yes,10 years,1,1,2,6,16,13,Afternoon,47.333333333333336
+2026-06-17,Wednesday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Classroom beside Lab,200,124,62.0,38.0,Theory,No,Yes,No,Cloudy,No,Yes,7 years,2,1,3,6,17,8,Morning,44.666666666666664
+2026-06-17,Wednesday,2,09:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,95,47.5,62.0,Theory,No,No,No,Rainy,No,Yes,7 years,2,1,3,6,17,9,Morning,47.333333333333336
+2026-06-17,Wednesday,3,10:15,Data Science & Machine Learning Hands-on,MLK,3,MCA,A+B Combined,Computer Lab,200,181,90.5,47.5,Practical,No,No,No,Rainy,No,Yes,7 years,2,1,3,6,17,10,Morning,49.166666666666664
+2026-06-17,Wednesday,4,11:15,Lab Session,ASP,3,MCA,A+B Combined,Computer Lab,200,97,48.5,90.5,Practical,No,No,No,Rainy,No,Yes,8 years,2,1,3,6,17,11,Morning,66.66666666666667
+2026-06-17,Wednesday,5,13:30,CI/CD Session,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,94,47.0,48.5,Practical,No,No,No,Rainy,No,Yes,9 years,2,1,3,6,17,13,Afternoon,62.166666666666664
+2026-06-18,Thursday,1,08:30,Mobile Application Development Hands-on,SSP,3,MCA,A+B Combined,Classroom beside Lab,200,185,92.5,47.0,Practical,No,No,No,Cloudy,No,Yes,7 years,3,1,4,6,18,8,Morning,62.0
+2026-06-18,Thursday,2,09:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,92,46.0,92.5,Theory,No,No,No,Rainy,No,Yes,10 years,3,1,4,6,18,9,Morning,62.666666666666664
+2026-06-18,Thursday,3,10:15,Soft Skill Evaluation,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,147,73.5,46.0,Assessment,No,Yes,No,Rainy,No,Yes,9 years,3,1,4,6,18,10,Morning,61.833333333333336
+2026-06-18,Thursday,4,11:15,Mobile Application Development Hands-on,SSP,3,MCA,A+B Combined,Computer Lab,200,188,94.0,73.5,Practical,No,No,No,Cloudy,No,Yes,7 years,3,1,4,6,18,11,Morning,70.66666666666667
+2026-06-18,Thursday,5,13:30,Industry Readiness Program - Technical Mock Interview,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,186,93.0,94.0,Theory,No,No,No,Rainy,No,Yes,9 years,3,1,4,6,18,13,Afternoon,71.16666666666667
+2026-06-19,Friday,1,08:30,Industry Readiness Program - HR Mock Interview,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,111,55.5,93.0,Practical,No,No,No,Rainy,No,Yes,9 years,4,1,5,6,19,8,Morning,86.83333333333333
+2026-06-19,Friday,2,09:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,92,46.0,55.5,Theory,No,No,No,Rainy,No,Yes,7 years,4,1,5,6,19,9,Morning,80.83333333333333
+2026-06-19,Friday,3,10:15,AWS Training,Kiran,3,MCA,A+B Combined,Classroom beside Lab,200,162,81.0,46.0,Theory,No,Yes,No,Cloudy,No,Yes,8 years,4,1,5,6,19,10,Morning,64.83333333333333
+2026-06-19,Friday,4,11:15,Regular Afternoon Session (Delayed),Unknown,3,MCA,A+B Combined,Computer Lab,200,154,77.0,81.0,Theory,No,No,No,Cloudy,No,Yes,7 years,4,1,5,6,19,11,Morning,60.833333333333336
+2026-06-19,Friday,5,13:30,Project Milestone 1 Evaluation,Project Guides,3,MCA,A+B Combined,Computer Lab,200,190,95.0,77.0,Assessment,No,No,No,Rainy,No,Yes,10 years,4,1,5,6,19,13,Afternoon,68.0
+2026-06-20,Saturday,1,08:30,Project Milestone 1 Evaluation,Project Guides,3,MCA,A+B Combined,Classroom beside Lab,200,130,65.0,95.0,Assessment,No,No,No,Rainy,No,Yes,8 years,5,1,6,6,20,8,Morning,84.33333333333333
+2026-06-20,Saturday,2,09:15,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,184,92.0,65.0,Theory,No,Yes,No,Cloudy,No,Yes,9 years,5,1,6,6,20,9,Morning,79.0
+2026-06-20,Saturday,3,10:15,Software Testing & Quality Assurance,AAB,3,MCA,A+B Combined,Classroom beside Lab,200,148,74.0,92.0,Practical,No,No,No,Rainy,No,Yes,9 years,5,1,6,6,20,10,Morning,84.0
+2026-06-20,Saturday,4,11:15,Lab Session,JSP,3,MCA,A+B Combined,Classroom beside Lab,200,138,69.0,74.0,Practical,No,No,No,Rainy,No,Yes,8 years,5,1,6,6,20,11,Morning,77.0
+2026-06-20,Saturday,5,13:00,Soft Skill Evaluation,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,98,49.0,69.0,Assessment,No,No,No,Cloudy,No,Yes,8 years,5,1,6,6,20,13,Afternoon,78.33333333333333
+2026-06-20,Saturday,6,13:30,Cloud Computing Certification Training,SDM,3,MCA,A+B Combined,Computer Lab,200,99,49.5,49.0,Practical,No,No,No,Cloudy,No,Yes,7 years,5,1,6,6,20,13,Afternoon,64.0
+2026-06-22,Monday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,95,47.5,49.5,Theory,No,No,No,Cloudy,No,Yes,10 years,0,2,8,6,22,8,Morning,55.833333333333336
+2026-06-22,Monday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.5,Theory,No,No,No,Cloudy,No,Yes,7 years,0,2,8,6,22,9,Morning,48.666666666666664
+2026-06-22,Monday,3,10:15,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.0,Theory,No,No,No,Cloudy,No,Yes,8 years,0,2,8,6,22,10,Morning,48.0
+2026-06-22,Monday,4,11:15,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Computer Lab,200,97,48.5,47.0,Theory,No,No,No,Cloudy,No,Yes,9 years,0,2,8,6,22,11,Morning,47.166666666666664
+2026-06-22,Monday,5,13:30,Software Testing & Quality Assurance,AAB,3,MCA,A+B Combined,Computer Lab,200,95,47.5,48.5,Practical,No,No,No,Cloudy,No,Yes,10 years,0,2,8,6,22,13,Afternoon,47.5
+2026-06-23,Tuesday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.5,Theory,No,No,No,Rainy,No,Yes,7 years,1,2,9,6,23,8,Morning,47.666666666666664
+2026-06-23,Tuesday,2,09:15,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.0,Theory,No,No,No,Rainy,No,Yes,8 years,1,2,9,6,23,9,Morning,47.666666666666664
+2026-06-23,Tuesday,3,10:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.0,Theory,No,No,No,Rainy,No,Yes,9 years,1,2,9,6,23,10,Morning,47.166666666666664
+2026-06-23,Tuesday,4,11:15,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.0,Theory,No,No,No,Rainy,No,Yes,10 years,1,2,9,6,23,11,Morning,47.0
+2026-06-23,Tuesday,5,13:30,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,92,46.0,47.0,Practical,No,No,No,Rainy,No,Yes,7 years,1,2,9,6,23,13,Afternoon,47.0
+2026-06-24,Wednesday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,46.0,Theory,No,No,No,Rainy,No,Yes,8 years,2,2,10,6,24,8,Morning,46.666666666666664
+2026-06-24,Wednesday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,97,48.5,47.0,Theory,No,No,No,Rainy,No,Yes,9 years,2,2,10,6,24,9,Morning,46.666666666666664
+2026-06-24,Wednesday,3,10:15,Software Testing & Quality Assurance,AAB,3,MCA,A+B Combined,Computer Lab,200,95,47.5,48.5,Theory,No,No,No,Rainy,No,Yes,10 years,2,2,10,6,24,10,Morning,47.166666666666664
+2026-06-24,Wednesday,4,11:15,Principles of Cloud Management and Security,KSD,3,MCA,A+B Combined,Computer Lab,200,90,45.0,47.5,Theory,No,No,No,Rainy,No,Yes,7 years,2,2,10,6,24,11,Morning,47.666666666666664
+2026-06-24,Wednesday,5,13:30,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Computer Lab,200,97,48.5,45.0,Theory,No,No,No,Rainy,No,Yes,8 years,2,2,10,6,24,13,Afternoon,47.0
+2026-06-25,Thursday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,51,25.5,48.5,Theory,No,No,No,Cloudy,No,Yes,9 years,3,2,11,6,25,8,Morning,47.0
+2026-06-25,Thursday,2,09:15,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,50,25.0,25.5,Theory,No,No,No,Cloudy,No,Yes,10 years,3,2,11,6,25,9,Morning,39.666666666666664
+2026-06-25,Thursday,3,10:15,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,50,25.0,25.0,Theory,No,No,No,Cloudy,No,Yes,7 years,3,2,11,6,25,10,Morning,33.0
+2026-06-25,Thursday,4,11:15,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Computer Lab,200,47,23.5,25.0,Theory,No,No,No,Cloudy,No,Yes,8 years,3,2,11,6,25,11,Morning,25.166666666666668
+2026-06-25,Thursday,5,13:30,Industry Readiness Program,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,55,27.5,23.5,Theory,No,No,No,Cloudy,No,Yes,9 years,3,2,11,6,25,13,Afternoon,24.5
+2026-06-27,Saturday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,93,46.5,27.5,Practical,No,No,No,Cloudy,No,Yes,7 years,5,2,13,6,27,8,Morning,25.333333333333332
+2026-06-27,Saturday,2,09:15,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,96,48.0,46.5,Practical,No,No,No,Cloudy,No,Yes,8 years,5,2,13,6,27,9,Morning,32.5
+2026-06-27,Saturday,3,10:15,Mini Project,Project Guides,3,MCA,A+B Combined,Computer Lab,200,98,49.0,48.0,Practical,No,No,No,Cloudy,No,Yes,Unknown,5,2,13,6,27,10,Morning,40.666666666666664
+2026-06-27,Saturday,4,11:15,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Classroom beside Lab,200,108,54.0,49.0,Theory,No,No,No,Cloudy,No,Yes,8 years,5,2,13,6,27,11,Morning,47.833333333333336
+2026-06-27,Saturday,5,13:30,Cloud Computing Certification Training,SDM,3,MCA,A+B Combined,Classroom beside Lab,200,168,84.0,54.0,Practical,No,No,No,Cloudy,No,Yes,10 years,5,2,13,6,27,13,Afternoon,50.333333333333336
+2026-06-29,Monday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,40,20.0,84.0,Theory,No,No,No,Cloudy,No,Yes,7 years,0,3,15,6,29,8,Morning,62.333333333333336
+2026-06-29,Monday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,42,21.0,20.0,Theory,No,No,No,Cloudy,No,Yes,8 years,0,3,15,6,29,9,Morning,52.666666666666664
+2026-06-29,Monday,3,10:15,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,40,20.0,21.0,Theory,No,No,No,Cloudy,No,Yes,9 years,0,3,15,6,29,10,Morning,41.666666666666664
+2026-06-29,Monday,4,11:15,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,40,20.0,20.0,Theory,No,No,No,Cloudy,No,Yes,10 years,0,3,15,6,29,11,Morning,20.333333333333332
+2026-06-29,Monday,5,13:30,Software Testing & Quality Assurance,AAB,3,MCA,A+B Combined,Computer Lab,200,40,20.0,20.0,Practical,No,No,No,Cloudy,No,Yes,7 years,0,3,15,6,29,13,Afternoon,20.333333333333332
+2026-06-30,Tuesday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,15,7.5,20.0,Theory,No,No,No,Rainy,No,Yes,8 years,1,3,16,6,30,8,Morning,20.0
+2026-06-30,Tuesday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,32,16.0,7.5,Theory,No,No,No,Rainy,No,Yes,9 years,1,3,16,6,30,9,Morning,15.833333333333334
+2026-06-30,Tuesday,3,10:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,32,16.0,16.0,Theory,No,No,No,Rainy,No,Yes,10 years,1,3,16,6,30,10,Morning,14.5
+2026-06-30,Tuesday,4,11:15,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,32,16.0,16.0,Theory,No,No,No,Rainy,No,Yes,7 years,1,3,16,6,30,11,Morning,13.166666666666666
+2026-06-30,Tuesday,5,13:30,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,32,16.0,16.0,Practical,No,No,No,Rainy,No,Yes,8 years,1,3,16,6,30,13,Afternoon,16.0
+2026-07-01,Wednesday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,92,46.0,16.0,Theory,No,No,No,Rainy,No,Yes,9 years,2,3,17,7,1,8,Morning,16.0
+2026-07-01,Wednesday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,46.0,Theory,No,No,No,Rainy,No,Yes,10 years,2,3,17,7,1,9,Morning,26.0
+2026-07-01,Wednesday,3,10:15,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Computer Lab,200,92,46.0,47.0,Theory,No,No,No,Rainy,No,Yes,7 years,2,3,17,7,1,10,Morning,36.333333333333336
+2026-07-01,Wednesday,4,11:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,93,46.5,46.0,Theory,No,No,No,Rainy,No,Yes,8 years,2,3,17,7,1,11,Morning,46.333333333333336
+2026-07-01,Wednesday,5,13:30,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,95,47.5,46.5,Theory,No,No,No,Rainy,No,Yes,9 years,2,3,17,7,1,13,Afternoon,46.5
+2026-07-02,Thursday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,95,47.5,47.5,Theory,No,No,No,Rainy,No,Yes,10 years,3,3,18,7,2,8,Morning,46.666666666666664
+2026-07-02,Thursday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.5,Theory,No,No,No,Rainy,No,Yes,7 years,3,3,18,7,2,9,Morning,47.166666666666664
+2026-07-02,Thursday,3,10:15,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.0,Theory,No,No,No,Rainy,No,Yes,8 years,3,3,18,7,2,10,Morning,47.333333333333336
+2026-07-02,Thursday,4,11:15,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Computer Lab,200,93,46.5,47.0,Theory,No,No,No,Rainy,No,Yes,9 years,3,3,18,7,2,11,Morning,47.166666666666664
+2026-07-02,Thursday,5,13:30,Industry Readiness Program,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,98,49.0,46.5,Theory,No,No,No,Rainy,No,Yes,10 years,3,3,18,7,2,13,Afternoon,46.833333333333336
+2026-07-03,Friday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,94,47.0,49.0,Theory,No,No,No,Cloudy,No,Yes,7 years,4,3,19,7,3,8,Morning,47.5
+2026-07-03,Friday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,96,48.0,47.0,Theory,No,No,No,Cloudy,No,Yes,8 years,4,3,19,7,3,9,Morning,47.5
+2026-07-03,Friday,3,10:15,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,93,46.5,48.0,Theory,No,No,No,Cloudy,No,Yes,9 years,4,3,19,7,3,10,Morning,48.0
+2026-07-03,Friday,4,11:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,92,46.0,46.5,Theory,No,No,No,Cloudy,No,Yes,10 years,4,3,19,7,3,11,Morning,47.166666666666664
+2026-07-03,Friday,5,13:30,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Computer Lab,200,97,48.5,46.0,Theory,No,No,No,Cloudy,No,Yes,7 years,4,3,19,7,3,13,Afternoon,46.833333333333336
+2026-07-04,Saturday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,98,49.0,48.5,Practical,No,No,No,Rainy,No,Yes,8 years,5,3,20,7,4,8,Morning,47.0
+2026-07-04,Saturday,2,09:15,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,98,49.0,49.0,Practical,No,No,No,Rainy,No,Yes,9 years,5,3,20,7,4,9,Morning,47.833333333333336
+2026-07-04,Saturday,3,10:15,Mini Project,Project Guides,3,MCA,A+B Combined,Computer Lab,200,90,45.0,49.0,Practical,No,No,No,Rainy,No,Yes,Unknown,5,3,20,7,4,10,Morning,48.833333333333336
+2026-07-04,Saturday,4,11:15,Lab Session,ASP,3,MCA,A+B Combined,Classroom beside Lab,200,128,64.0,45.0,Practical,No,Yes,No,Cloudy,No,Yes,7 years,5,3,20,7,4,11,Morning,47.666666666666664
+2026-07-04,Saturday,5,13:30,Principles of Cloud Management and Security,KSD,3,MCA,A+B Combined,Classroom beside Lab,200,159,79.5,64.0,Theory,No,No,No,Rainy,No,Yes,8 years,5,3,20,7,4,13,Afternoon,52.666666666666664
+2026-07-06,Monday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,93,46.5,79.5,Theory,No,No,No,Rainy,No,Yes,8 years,0,4,22,7,6,8,Morning,62.833333333333336
+2026-07-06,Monday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,95,47.5,46.5,Theory,No,No,No,Rainy,No,Yes,9 years,0,4,22,7,6,9,Morning,63.333333333333336
+2026-07-06,Monday,3,10:15,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.5,Theory,No,No,No,Rainy,No,Yes,10 years,0,4,22,7,6,10,Morning,57.833333333333336
+2026-07-06,Monday,4,11:15,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.0,Theory,No,No,No,Rainy,No,Yes,7 years,0,4,22,7,6,11,Morning,47.0
+2026-07-06,Monday,5,13:30,Software Testing & Quality Assurance,AAB,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.0,Practical,No,No,No,Rainy,No,Yes,8 years,0,4,22,7,6,13,Afternoon,47.166666666666664
+2026-07-07,Tuesday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,95,47.5,47.0,Theory,No,No,No,Cloudy,No,Yes,9 years,1,4,23,7,7,8,Morning,47.0
+2026-07-07,Tuesday,2,09:15,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.5,Theory,No,No,No,Cloudy,No,Yes,10 years,1,4,23,7,7,9,Morning,47.166666666666664
+2026-07-07,Tuesday,3,10:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,91,45.5,47.0,Theory,No,No,No,Cloudy,No,Yes,7 years,1,4,23,7,7,10,Morning,47.166666666666664
+2026-07-07,Tuesday,4,11:15,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,92,46.0,45.5,Theory,No,No,No,Cloudy,No,Yes,8 years,1,4,23,7,7,11,Morning,46.666666666666664
+2026-07-07,Tuesday,5,13:30,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,92,46.0,46.0,Practical,No,No,No,Cloudy,No,Yes,9 years,1,4,23,7,7,13,Afternoon,46.166666666666664
+2026-07-08,Wednesday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,46.0,Theory,No,No,No,Rainy,No,Yes,10 years,2,4,24,7,8,8,Morning,45.833333333333336
+2026-07-08,Wednesday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.0,Theory,No,No,No,Rainy,No,Yes,7 years,2,4,24,7,8,9,Morning,46.333333333333336
+2026-07-08,Wednesday,3,10:15,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Computer Lab,200,93,46.5,47.0,Theory,No,No,No,Rainy,No,Yes,8 years,2,4,24,7,8,10,Morning,46.666666666666664
+2026-07-08,Wednesday,4,11:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,90,45.0,46.5,Theory,No,No,No,Rainy,No,Yes,9 years,2,4,24,7,8,11,Morning,46.833333333333336
+2026-07-08,Wednesday,5,13:30,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,93,46.5,45.0,Theory,No,No,No,Rainy,No,Yes,10 years,2,4,24,7,8,13,Afternoon,46.166666666666664
+2026-07-09,Thursday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,32,16.0,46.5,Theory,No,No,No,Rainy,No,Yes,7 years,3,4,25,7,9,8,Morning,46.0
+2026-07-09,Thursday,2,09:15,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,20,10.0,16.0,Theory,No,No,No,Rainy,No,Yes,8 years,3,4,25,7,9,9,Morning,35.833333333333336
+2026-07-09,Thursday,3,10:15,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,32,16.0,10.0,Theory,No,No,No,Rainy,No,Yes,9 years,3,4,25,7,9,10,Morning,24.166666666666668
+2026-07-09,Thursday,4,11:15,Software Testing & Quality Assurance,AAB,3,MCA,A+B Combined,Computer Lab,200,32,16.0,16.0,Theory,No,No,No,Rainy,No,Yes,10 years,3,4,25,7,9,11,Morning,14.0
+2026-07-09,Thursday,5,13:30,Industry Readiness Program,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,32,16.0,16.0,Theory,No,No,No,Rainy,No,Yes,7 years,3,4,25,7,9,13,Afternoon,14.0
+2026-07-10,Friday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,41,20.5,16.0,Theory,No,No,No,Cloudy,No,Yes,8 years,4,4,26,7,10,8,Morning,16.0
+2026-07-10,Friday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,43,21.5,20.5,Theory,No,No,No,Cloudy,No,Yes,9 years,4,4,26,7,10,9,Morning,17.5
+2026-07-10,Friday,3,10:15,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,42,21.0,21.5,Theory,No,No,No,Cloudy,No,Yes,10 years,4,4,26,7,10,10,Morning,19.333333333333332
+2026-07-10,Friday,4,11:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,38,19.0,21.0,Theory,No,No,No,Cloudy,No,Yes,7 years,4,4,26,7,10,11,Morning,21.0
+2026-07-10,Friday,5,13:30,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Computer Lab,200,43,21.5,19.0,Theory,No,No,No,Cloudy,No,Yes,8 years,4,4,26,7,10,13,Afternoon,20.5
+2026-07-11,Saturday,1,08:30,CI/CD Session,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,139,69.5,21.5,Practical,No,No,No,Cloudy,No,Yes,9 years,5,4,27,7,11,8,Morning,20.5
+2026-07-11,Saturday,2,09:00,Industry Readiness Program - HR Mock Interview,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,93,46.5,69.5,Practical,No,No,No,Rainy,No,Yes,9 years,5,4,27,7,11,9,Morning,36.666666666666664
+2026-07-11,Saturday,3,09:15,Mini Project,Project Guides,3,MCA,A+B Combined,Classroom beside Lab,200,100,50.0,46.5,Practical,No,Yes,No,Cloudy,No,Yes,9 years,5,4,27,7,11,9,Morning,45.833333333333336
+2026-07-11,Saturday,4,10:15,Mobile Application Development Hands-on,SSP,3,MCA,A+B Combined,Classroom beside Lab,200,146,73.0,50.0,Practical,No,No,No,Rainy,No,Yes,8 years,5,4,27,7,11,10,Morning,55.333333333333336
+2026-07-11,Saturday,5,11:15,CI/CD Session,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,164,82.0,73.0,Practical,No,No,No,Cloudy,No,Yes,8 years,5,4,27,7,11,11,Morning,56.5
+2026-07-11,Saturday,6,13:30,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Classroom beside Lab,200,155,77.5,82.0,Theory,No,No,No,Rainy,No,Yes,10 years,5,4,27,7,11,13,Afternoon,68.33333333333333
+2026-07-13,Monday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,95,47.5,77.5,Theory,No,No,No,Rainy,No,Yes,7 years,0,5,29,7,13,8,Morning,77.5
+2026-07-13,Monday,2,09:15,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Classroom beside Lab,200,108,54.0,47.5,Practical,No,No,No,Rainy,No,Yes,8 years,0,5,29,7,13,9,Morning,69.0
+2026-07-13,Monday,3,09:30,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,95,47.5,54.0,Theory,No,No,No,Rainy,No,Yes,8 years,0,5,29,7,13,9,Morning,59.666666666666664
+2026-07-13,Monday,4,10:15,Industry Readiness Program - Technical Mock Interview,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,109,54.5,47.5,Theory,No,No,No,Rainy,No,Yes,9 years,0,5,29,7,13,10,Morning,49.666666666666664
+2026-07-13,Monday,5,10:30,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,94,47.0,54.5,Theory,No,No,No,Rainy,No,Yes,9 years,0,5,29,7,13,10,Morning,52.0
+2026-07-13,Monday,6,11:15,Mobile Application Development Hands-on,SSP,3,MCA,A+B Combined,Classroom beside Lab,200,106,53.0,47.0,Practical,No,No,No,Rainy,No,Yes,7 years,0,5,29,7,13,11,Morning,49.666666666666664
+2026-07-13,Monday,7,13:30,Software Testing & Quality Assurance,AAB,3,MCA,A+B Combined,Computer Lab,200,97,48.5,53.0,Practical,No,No,No,Rainy,No,Yes,10 years,0,5,29,7,13,13,Afternoon,51.5
+2026-07-14,Tuesday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Classroom beside Lab,200,95,47.5,48.5,Theory,No,No,No,Cloudy,No,Yes,7 years,1,5,30,7,14,8,Morning,49.5
+2026-07-14,Tuesday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Classroom beside Lab,200,97,48.5,47.5,Theory,No,No,No,Cloudy,No,Yes,8 years,1,5,30,7,14,9,Morning,49.666666666666664
+2026-07-14,Tuesday,3,10:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Classroom beside Lab,200,94,47.0,48.5,Theory,No,No,No,Cloudy,No,Yes,9 years,1,5,30,7,14,10,Morning,48.166666666666664
+2026-07-14,Tuesday,4,11:15,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Classroom beside Lab,200,95,47.5,47.0,Theory,No,No,No,Cloudy,No,Yes,10 years,1,5,30,7,14,11,Morning,47.666666666666664
+2026-07-14,Tuesday,5,13:30,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Classroom beside Lab,200,98,49.0,47.5,Practical,No,No,No,Cloudy,No,Yes,7 years,1,5,30,7,14,13,Afternoon,47.666666666666664
+2026-07-15,Wednesday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,49.0,Theory,No,No,No,Rainy,No,Yes,8 years,2,5,31,7,15,8,Morning,47.833333333333336
+2026-07-15,Wednesday,2,09:15,Data Science & Machine Learning Hands-on,SP,3,MCA,A+B Combined,Computer Lab,200,173,86.5,47.0,Practical,No,No,No,Rainy,No,Yes,10 years,2,5,31,7,15,9,Morning,47.833333333333336
+2026-07-15,Wednesday,3,09:30,Software Testing & Quality Assurance,AAB,3,MCA,A+B Combined,Computer Lab,200,95,47.5,86.5,Theory,No,No,No,Rainy,No,Yes,9 years,2,5,31,7,15,9,Morning,60.833333333333336
+2026-07-15,Wednesday,4,10:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Classroom beside Lab,200,167,83.5,47.5,Theory,No,No,No,Rainy,No,Yes,7 years,2,5,31,7,15,10,Morning,60.333333333333336
+2026-07-15,Wednesday,5,10:30,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,92,46.0,83.5,Theory,No,No,No,Rainy,No,Yes,10 years,2,5,31,7,15,10,Morning,72.5
+2026-07-15,Wednesday,6,11:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Classroom beside Lab,200,142,71.0,46.0,Theory,No,No,No,Rainy,No,Yes,8 years,2,5,31,7,15,11,Morning,59.0
+2026-07-15,Wednesday,7,13:30,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Computer Lab,200,93,46.5,71.0,Theory,No,No,No,Rainy,No,Yes,7 years,2,5,31,7,15,13,Afternoon,66.83333333333333
+2026-07-16,Thursday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Classroom beside Lab,200,94,47.0,46.5,Theory,No,No,No,Rainy,No,Yes,8 years,3,5,32,7,16,8,Morning,54.5
+2026-07-16,Thursday,2,09:15,Mobile Application Development,Visiting,3,MCA,A+B Combined,Classroom beside Lab,200,95,47.5,47.0,Theory,No,No,No,Rainy,No,Yes,9 years,3,5,32,7,16,9,Morning,54.833333333333336
+2026-07-16,Thursday,3,10:15,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Classroom beside Lab,200,95,47.5,47.5,Theory,No,No,No,Rainy,No,Yes,10 years,3,5,32,7,16,10,Morning,47.0
+2026-07-16,Thursday,4,11:15,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Classroom beside Lab,200,91,45.5,47.5,Theory,No,No,No,Rainy,No,Yes,7 years,3,5,32,7,16,11,Morning,47.333333333333336
+2026-07-16,Thursday,5,13:30,Industry Readiness Program,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,98,49.0,45.5,Theory,No,No,No,Rainy,No,Yes,8 years,3,5,32,7,16,13,Afternoon,46.833333333333336
+2026-07-17,Friday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Classroom beside Lab,200,96,48.0,49.0,Theory,No,No,No,Cloudy,No,Yes,9 years,4,5,33,7,17,8,Morning,47.333333333333336
+2026-07-17,Friday,2,09:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Classroom beside Lab,200,98,49.0,48.0,Theory,No,No,No,Cloudy,No,Yes,10 years,4,5,33,7,17,9,Morning,47.5
+2026-07-17,Friday,3,10:15,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Classroom beside Lab,200,91,45.5,49.0,Theory,No,No,No,Cloudy,No,Yes,7 years,4,5,33,7,17,10,Morning,48.666666666666664
+2026-07-17,Friday,4,11:15,Principles of Cloud Management and Security,KSD,3,MCA,A+B Combined,Classroom beside Lab,200,94,47.0,45.5,Theory,No,No,No,Cloudy,No,Yes,8 years,4,5,33,7,17,11,Morning,47.5
+2026-07-17,Friday,5,13:30,Software Testing & Quality Assurance,AAB,3,MCA,A+B Combined,Classroom beside Lab,200,96,48.0,47.0,Theory,No,No,No,Cloudy,No,Yes,9 years,4,5,33,7,17,13,Afternoon,47.166666666666664
+2026-07-18,Saturday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,98,49.0,48.0,Practical,No,No,No,Rainy,No,Yes,10 years,5,5,34,7,18,8,Morning,46.833333333333336
+2026-07-18,Saturday,2,09:15,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,95,47.5,49.0,Practical,No,No,No,Rainy,No,Yes,7 years,5,5,34,7,18,9,Morning,48.0
+2026-07-18,Saturday,3,10:15,Mini Project,Project Guides,3,MCA,A+B Combined,Computer Lab,200,97,48.5,47.5,Practical,No,No,No,Rainy,No,Yes,Unknown,5,5,34,7,18,10,Morning,48.166666666666664
+2026-07-18,Saturday,4,11:15,Software Testing & Quality Assurance Hands-on,AAB,3,MCA,A+B Combined,Computer Lab,200,169,84.5,48.5,Practical,No,No,No,Cloudy,No,Yes,7 years,5,5,34,7,18,11,Morning,48.333333333333336
+2026-07-18,Saturday,5,13:30,Mini Project,Project Guides,3,MCA,A+B Combined,Classroom beside Lab,200,96,48.0,84.5,Practical,No,No,No,Cloudy,No,Yes,8 years,5,5,34,7,18,13,Afternoon,60.166666666666664
+2026-07-20,Monday,1,08:30,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,166,83.0,48.0,Theory,No,No,No,Cloudy,No,Yes,8 years,0,6,36,7,20,8,Morning,60.333333333333336
+2026-07-20,Monday,2,09:00,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Computer Lab,200,93,46.5,83.0,Theory,No,No,No,Rainy,No,Yes,10 years,0,6,36,7,20,9,Morning,71.83333333333333
+2026-07-20,Monday,3,09:15,Software Testing & Quality Assurance Hands-on,DPY,3,MCA,A+B Combined,Classroom beside Lab,200,149,74.5,46.5,Practical,No,No,No,Cloudy,No,Yes,9 years,0,6,36,7,20,9,Morning,59.166666666666664
+2026-07-20,Monday,4,10:15,Data Science & Machine Learning Hands-on,MLK,3,MCA,A+B Combined,Classroom beside Lab,200,161,80.5,74.5,Practical,No,No,No,Rainy,No,Yes,8 years,0,6,36,7,20,10,Morning,68.0
+2026-07-20,Monday,5,11:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,164,82.0,80.5,Theory,No,No,No,Rainy,No,Yes,7 years,0,6,36,7,20,11,Morning,67.16666666666667
+2026-07-20,Monday,6,13:30,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Classroom beside Lab,200,132,66.0,82.0,Theory,No,No,No,Cloudy,No,Yes,7 years,0,6,36,7,20,13,Afternoon,79.0
+2026-07-20,Monday,7,14:00,Regular Afternoon Session (Delayed),Unknown,3,MCA,A+B Combined,Computer Lab,200,94,47.0,66.0,Theory,No,No,No,Rainy,No,Yes,7 years,0,6,36,7,20,14,Afternoon,76.16666666666667
+2026-07-21,Tuesday,1,08:30,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,149,74.5,47.0,Theory,No,Yes,No,Cloudy,No,Yes,8 years,1,6,37,7,21,8,Morning,65.0
+2026-07-21,Tuesday,2,09:15,Cloud Computing Certification Training,KSD,3,MCA,A+B Combined,Computer Lab,200,182,91.0,74.5,Practical,No,No,No,Cloudy,No,Yes,8 years,1,6,37,7,21,9,Morning,62.5
+2026-07-21,Tuesday,3,10:15,CI/CD Session,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,156,78.0,91.0,Practical,No,No,No,Rainy,No,Yes,7 years,1,6,37,7,21,10,Morning,70.83333333333333
+2026-07-21,Tuesday,4,11:15,Talenlio ERP Hands-on,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,178,89.0,78.0,Practical,No,No,No,Rainy,No,Yes,9 years,1,6,37,7,21,11,Morning,81.16666666666667
+2026-07-21,Tuesday,5,13:30,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Classroom beside Lab,200,169,84.5,89.0,Theory,No,No,No,Cloudy,No,Yes,9 years,1,6,37,7,21,13,Afternoon,86.0
+2026-07-22,Wednesday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,12,6.0,84.5,Theory,No,No,No,Rainy,No,Yes,9 years,2,6,38,7,22,8,Morning,83.83333333333333
+2026-07-22,Wednesday,2,09:15,Project Milestone 1 Evaluation,Project Guides,3,MCA,A+B Combined,Computer Lab,200,115,57.5,6.0,Assessment,No,Yes,No,Cloudy,No,Yes,10 years,2,6,38,7,22,9,Morning,59.833333333333336
+2026-07-22,Wednesday,3,09:30,Software Testing & Quality Assurance,AAB,3,MCA,A+B Combined,Computer Lab,200,94,47.0,57.5,Theory,No,No,No,Rainy,No,Yes,10 years,2,6,38,7,22,9,Morning,49.333333333333336
+2026-07-22,Wednesday,4,10:15,Selenium Hands-on,Keshav Potdar,3,MCA,A+B Combined,Classroom beside Lab,200,141,70.5,47.0,Practical,No,Yes,No,Rainy,No,Yes,8 years,2,6,38,7,22,10,Morning,36.833333333333336
+2026-07-22,Wednesday,5,10:30,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,90,45.0,70.5,Theory,No,No,No,Rainy,No,Yes,7 years,2,6,38,7,22,10,Morning,58.333333333333336
+2026-07-22,Wednesday,6,11:15,Data Science & Machine Learning Hands-on,MLK,3,MCA,A+B Combined,Classroom beside Lab,200,177,88.5,45.0,Practical,No,No,No,Rainy,No,Yes,10 years,2,6,38,7,22,11,Morning,54.166666666666664
+2026-07-22,Wednesday,7,13:30,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Computer Lab,200,32,16.0,88.5,Theory,No,No,No,Rainy,No,Yes,8 years,2,6,38,7,22,13,Afternoon,68.0
+2026-07-23,Thursday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,32,16.0,16.0,Theory,No,No,No,Rainy,No,Yes,9 years,3,6,39,7,23,8,Morning,49.833333333333336
+2026-07-23,Thursday,2,09:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Classroom beside Lab,200,129,64.5,16.0,Theory,No,Yes,No,Rainy,No,Yes,10 years,3,6,39,7,23,9,Morning,40.166666666666664
+2026-07-23,Thursday,3,09:30,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,93,46.5,64.5,Theory,No,No,No,Rainy,No,Yes,10 years,3,6,39,7,23,9,Morning,32.166666666666664
+2026-07-23,Thursday,4,10:15,Mobile Application Development Hands-on,SSP,3,MCA,A+B Combined,Computer Lab,200,152,76.0,46.5,Practical,No,No,No,Rainy,No,Yes,10 years,3,6,39,7,23,10,Morning,42.333333333333336
+2026-07-23,Thursday,5,11:00,Talenlio ERP Hands-on,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,92,46.0,76.0,Practical,No,Yes,No,Rainy,No,Yes,7 years,3,6,39,7,23,11,Morning,62.333333333333336
+2026-07-23,Thursday,6,11:15,Cloud Computing Certification Training,KSD,3,MCA,A+B Combined,Computer Lab,200,113,56.5,46.0,Practical,No,No,No,Cloudy,No,Yes,7 years,3,6,39,7,23,11,Morning,56.166666666666664
+2026-07-23,Thursday,7,13:30,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Computer Lab,200,92,46.0,56.5,Practical,No,No,No,Rainy,No,Yes,8 years,3,6,39,7,23,13,Afternoon,59.5
+2026-07-24,Friday,1,08:30,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,95,47.5,46.0,Theory,No,No,No,Cloudy,No,Yes,9 years,4,6,40,7,24,8,Morning,49.5
+2026-07-24,Friday,2,09:15,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Classroom beside Lab,200,168,84.0,47.5,Theory,No,Yes,No,Rainy,No,Yes,8 years,4,6,40,7,24,9,Morning,50.0
+2026-07-24,Friday,3,09:30,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,93,46.5,84.0,Theory,No,No,No,Cloudy,No,Yes,10 years,4,6,40,7,24,9,Morning,59.166666666666664
+2026-07-24,Friday,4,10:15,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Computer Lab,200,160,80.0,46.5,Practical,No,No,No,Rainy,No,Yes,8 years,4,6,40,7,24,10,Morning,59.333333333333336
+2026-07-24,Friday,5,10:30,Principles of Cloud Management and Security,KSD,3,MCA,A+B Combined,Computer Lab,200,92,46.0,80.0,Theory,No,No,No,Cloudy,No,Yes,7 years,4,6,40,7,24,10,Morning,70.16666666666667
+2026-07-24,Friday,6,11:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Classroom beside Lab,200,173,86.5,46.0,Theory,No,No,No,Rainy,No,Yes,9 years,4,6,40,7,24,11,Morning,57.5
+2026-07-24,Friday,7,13:30,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Computer Lab,200,96,48.0,86.5,Theory,No,No,No,Cloudy,No,Yes,8 years,4,6,40,7,24,13,Afternoon,70.83333333333333
+2026-07-25,Saturday,1,08:30,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,93,46.5,48.0,Practical,No,No,No,Rainy,No,Yes,9 years,5,6,41,7,25,8,Morning,60.166666666666664
+2026-07-25,Saturday,2,09:15,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,98,49.0,46.5,Practical,No,No,No,Rainy,No,Yes,10 years,5,6,41,7,25,9,Morning,60.333333333333336
+2026-07-25,Saturday,3,10:15,Mini Project,Project Guides,3,MCA,A+B Combined,Computer Lab,200,96,48.0,49.0,Practical,No,No,No,Rainy,No,Yes,Unknown,5,6,41,7,25,10,Morning,47.833333333333336
+2026-07-25,Saturday,4,11:15,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,109,54.5,48.0,Practical,No,No,No,Cloudy,No,Yes,10 years,5,6,41,7,25,11,Morning,47.833333333333336
+2026-07-25,Saturday,5,13:30,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,141,70.5,54.5,Theory,No,No,No,Rainy,No,Yes,10 years,5,6,41,7,25,13,Afternoon,50.5
+2026-07-27,Monday,1,08:00,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,95,47.5,70.5,Theory,No,No,No,Rainy,No,Yes,9 years,0,7,43,7,27,8,Morning,57.666666666666664
+2026-07-27,Monday,2,08:30,Regular Afternoon Session (Delayed),Unknown,3,MCA,A+B Combined,Computer Lab,200,171,85.5,47.5,Theory,No,No,No,Rainy,No,Yes,9 years,0,7,43,7,27,8,Morning,57.5
+2026-07-27,Monday,3,09:15,Regular Afternoon Session (Delayed),Unknown,3,MCA,A+B Combined,Computer Lab,200,176,88.0,85.5,Theory,No,No,No,Rainy,No,Yes,10 years,0,7,43,7,27,9,Morning,67.83333333333333
+2026-07-27,Monday,4,10:15,Software Testing & Quality Assurance,DPY,3,MCA,A+B Combined,Classroom beside Lab,200,134,67.0,88.0,Practical,No,No,No,Rainy,No,Yes,7 years,0,7,43,7,27,10,Morning,73.66666666666667
+2026-07-27,Monday,5,11:00,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,89,44.5,67.0,Theory,No,No,No,Rainy,No,Yes,10 years,0,7,43,7,27,11,Morning,80.16666666666667
+2026-07-27,Monday,6,11:15,Mini Project,Project Guides,3,MCA,A+B Combined,Classroom beside Lab,200,133,66.5,44.5,Practical,No,Yes,No,Rainy,No,Yes,9 years,0,7,43,7,27,11,Morning,66.5
+2026-07-27,Monday,7,13:30,Selenium Hands-on,Keshav Potdar,3,MCA,A+B Combined,Computer Lab,200,93,46.5,66.5,Practical,No,No,No,Rainy,No,Yes,7 years,0,7,43,7,27,13,Afternoon,59.333333333333336
+2026-07-28,Tuesday,1,08:00,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,91,45.5,46.5,Theory,No,No,No,Cloudy,No,Yes,8 years,1,7,44,7,28,8,Morning,52.5
+2026-07-28,Tuesday,2,08:30,Selenium Industry Input,Keshav Potdar,3,MCA,A+B Combined,Computer Lab,200,108,54.0,45.5,Practical,No,No,No,Cloudy,No,Yes,8 years,1,7,44,7,28,8,Morning,52.833333333333336
+2026-07-28,Tuesday,3,09:00,Selenium Hands-on,Keshav Potdar,3,MCA,A+B Combined,Computer Lab,200,92,46.0,54.0,Practical,No,No,No,Cloudy,No,Yes,9 years,1,7,44,7,28,9,Morning,48.666666666666664
+2026-07-28,Tuesday,4,09:15,Talenlio ERP Hands-on,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,181,90.5,46.0,Practical,No,No,No,Cloudy,No,Yes,10 years,1,7,44,7,28,9,Morning,48.5
+2026-07-28,Tuesday,5,10:15,Selenium Industry Input,Keshav Potdar,3,MCA,A+B Combined,Computer Lab,200,176,88.0,90.5,Practical,No,Yes,No,Rainy,No,Yes,10 years,1,7,44,7,28,10,Morning,63.5
+2026-07-28,Tuesday,6,11:15,Industry Readiness Program - HR Mock Interview,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,125,62.5,88.0,Practical,No,Yes,No,Cloudy,No,Yes,7 years,1,7,44,7,28,11,Morning,74.83333333333333
+2026-07-28,Tuesday,7,11:30,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,93,46.5,62.5,Theory,No,No,No,Cloudy,No,Yes,10 years,1,7,44,7,28,11,Morning,80.33333333333333
+2026-07-28,Tuesday,8,13:30,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,82,41.0,46.5,Practical,No,No,No,Cloudy,No,Yes,7 years,1,7,44,7,28,13,Afternoon,65.66666666666667
+2026-07-29,Wednesday,1,08:00,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,94,47.0,41.0,Theory,No,No,No,Rainy,No,Yes,8 years,2,7,45,7,29,8,Morning,50.0
+2026-07-29,Wednesday,2,08:30,Selenium Industry Input,Keshav Potdar,3,MCA,A+B Combined,Computer Lab,200,138,69.0,47.0,Practical,No,No,No,Rainy,No,Yes,8 years,2,7,45,7,29,8,Morning,44.833333333333336
+2026-07-29,Wednesday,3,09:00,Selenium Hands-on,Keshav Potdar,3,MCA,A+B Combined,Computer Lab,200,92,46.0,69.0,Practical,No,No,No,Rainy,No,Yes,9 years,2,7,45,7,29,9,Morning,52.333333333333336
+2026-07-29,Wednesday,4,09:15,Data Science & Machine Learning Hands-on,MLK,3,MCA,A+B Combined,Classroom beside Lab,200,129,64.5,46.0,Practical,No,No,No,Rainy,No,Yes,9 years,2,7,45,7,29,9,Morning,54.0
+2026-07-29,Wednesday,5,10:15,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Computer Lab,200,109,54.5,64.5,Theory,No,No,No,Cloudy,No,Yes,7 years,2,7,45,7,29,10,Morning,59.833333333333336
+2026-07-29,Wednesday,6,11:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,105,52.5,54.5,Theory,No,No,No,Cloudy,No,Yes,8 years,2,7,45,7,29,11,Morning,55.0
+2026-07-29,Wednesday,7,11:30,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,96,48.0,52.5,Theory,No,No,No,Rainy,No,Yes,10 years,2,7,45,7,29,11,Morning,57.166666666666664
+2026-07-29,Wednesday,8,13:30,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,68,34.0,48.0,Theory,No,No,No,Rainy,No,Yes,7 years,2,7,45,7,29,13,Afternoon,51.666666666666664
+2026-07-30,Thursday,1,08:00,Mobile Application Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,94,47.0,34.0,Theory,No,No,No,Rainy,No,Yes,8 years,3,7,46,7,30,8,Morning,44.833333333333336
+2026-07-30,Thursday,2,08:30,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,115,57.5,47.0,Theory,No,No,No,Rainy,No,Yes,9 years,3,7,46,7,30,8,Morning,43.0
+2026-07-30,Thursday,3,09:00,Selenium Hands-on,Keshav Potdar,3,MCA,A+B Combined,Computer Lab,200,91,45.5,57.5,Practical,No,No,No,Rainy,No,Yes,9 years,3,7,46,7,30,9,Morning,46.166666666666664
+2026-07-30,Thursday,4,09:15,Project Milestone 1 Evaluation,Project Guides,3,MCA,A+B Combined,Classroom beside Lab,200,172,86.0,45.5,Assessment,No,No,No,Cloudy,No,Yes,7 years,3,7,46,7,30,9,Morning,50.0
+2026-07-30,Thursday,5,10:15,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,179,89.5,86.0,Practical,No,No,No,Rainy,No,Yes,7 years,3,7,46,7,30,10,Morning,63.0
+2026-07-30,Thursday,6,11:15,Industry Readiness Program - HR Mock Interview,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,181,90.5,89.5,Practical,No,Yes,No,Rainy,No,Yes,9 years,3,7,46,7,30,11,Morning,73.66666666666667
+2026-07-30,Thursday,7,11:30,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,90.5,Theory,No,No,No,Rainy,No,Yes,10 years,3,7,46,7,30,11,Morning,88.66666666666667
+2026-07-30,Thursday,8,13:30,Cloud Computing Certification Training,KSD,3,MCA,A+B Combined,Computer Lab,200,94,47.0,47.0,Practical,No,No,No,Rainy,No,Yes,7 years,3,7,46,7,30,13,Afternoon,75.66666666666667
+2026-07-31,Friday,1,08:00,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,96,48.0,47.0,Theory,No,No,No,Cloudy,No,Yes,8 years,4,7,47,7,31,8,Morning,61.5
+2026-07-31,Friday,2,08:30,Selenium Hands-on,Keshav Potdar,3,MCA,A+B Combined,Classroom beside Lab,200,120,60.0,48.0,Practical,No,No,No,Cloudy,No,Yes,7 years,4,7,47,7,31,8,Morning,47.333333333333336
+2026-07-31,Friday,3,09:00,Selenium Hands-on,Keshav Potdar,3,MCA,A+B Combined,Computer Lab,200,91,45.5,60.0,Practical,No,No,No,Cloudy,No,Yes,9 years,4,7,47,7,31,9,Morning,51.666666666666664
+2026-07-31,Friday,4,09:15,Regular Afternoon Session (Delayed),Unknown,3,MCA,A+B Combined,Classroom beside Lab,200,167,83.5,45.5,Theory,No,No,No,Cloudy,No,Yes,9 years,4,7,47,7,31,9,Morning,51.166666666666664
+2026-07-31,Friday,5,10:15,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,102,51.0,83.5,Theory,No,No,No,Cloudy,No,Yes,10 years,4,7,47,7,31,10,Morning,63.0
+2026-07-31,Friday,6,11:15,Selenium Industry Input,Keshav Potdar,3,MCA,A+B Combined,Classroom beside Lab,200,155,77.5,51.0,Practical,No,No,No,Cloudy,No,Yes,7 years,4,7,47,7,31,11,Morning,60.0
+2026-07-31,Friday,7,11:30,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,90,45.0,77.5,Theory,No,No,No,Cloudy,No,Yes,10 years,4,7,47,7,31,11,Morning,70.66666666666667
+2026-07-31,Friday,8,13:30,Cloud Computing Certification Training,SDM,3,MCA,A+B Combined,Computer Lab,200,89,44.5,45.0,Practical,No,No,No,Cloudy,No,Yes,7 years,4,7,47,7,31,13,Afternoon,57.833333333333336
+2026-08-01,Saturday,1,08:30,Mini Project,Project Guides,3,MCA,A+B Combined,Classroom beside Lab,200,174,87.0,44.5,Practical,No,No,No,Rainy,No,Yes,8 years,5,7,48,8,1,8,Morning,55.666666666666664
+2026-08-01,Saturday,2,09:00,Project Milestone 1 Evaluation,Project Guides,3,MCA,A+B Combined,Computer Lab,200,98,49.0,87.0,Assessment,No,Yes,No,Rainy,No,Yes,8 years,5,7,48,8,1,9,Morning,58.833333333333336
+2026-08-01,Saturday,3,09:15,CI/CD Session,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,118,59.0,49.0,Practical,No,No,No,Cloudy,No,Yes,8 years,5,7,48,8,1,9,Morning,60.166666666666664
+2026-08-01,Saturday,4,10:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Classroom beside Lab,200,134,67.0,59.0,Theory,No,No,No,Rainy,No,Yes,9 years,5,7,48,8,1,10,Morning,65.0
+2026-08-01,Saturday,5,11:15,Talenlio ERP Hands-on,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,162,81.0,67.0,Practical,No,Yes,No,Cloudy,No,Yes,7 years,5,7,48,8,1,11,Morning,58.333333333333336
+2026-08-01,Saturday,6,13:30,AWS Training,Kiran,3,MCA,A+B Combined,Computer Lab,200,87,43.5,81.0,Practical,No,No,No,Rainy,No,Yes,9 years,5,7,48,8,1,13,Afternoon,69.0
+2026-08-03,Monday,1,08:30,Principles of Cloud Management and Security,SDM,3,MCA,A+B Combined,Computer Lab,200,151,75.5,43.5,Theory,No,No,No,Rainy,No,Yes,7 years,0,8,50,8,3,8,Morning,63.833333333333336
+2026-08-03,Monday,2,09:00,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Computer Lab,200,96,48.0,75.5,Theory,No,No,No,Rainy,No,Yes,7 years,0,8,50,8,3,9,Morning,66.66666666666667
+2026-08-03,Monday,3,09:15,Regular Afternoon Session (Delayed),Unknown,3,MCA,A+B Combined,Computer Lab,200,176,88.0,48.0,Theory,No,No,No,Rainy,No,Yes,7 years,0,8,50,8,3,9,Morning,55.666666666666664
+2026-08-03,Monday,4,10:15,Cloud Computing Certification Training,KSD,3,MCA,A+B Combined,Classroom beside Lab,200,139,69.5,88.0,Practical,No,No,No,Cloudy,No,Yes,8 years,0,8,50,8,3,10,Morning,70.5
+2026-08-03,Monday,5,11:00,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,93,46.5,69.5,Theory,No,No,No,Rainy,No,Yes,8 years,0,8,50,8,3,11,Morning,68.5
+2026-08-03,Monday,6,11:15,Project Milestone 1 Evaluation,Project Guides,3,MCA,A+B Combined,Computer Lab,200,100,50.0,46.5,Assessment,No,No,No,Rainy,No,Yes,7 years,0,8,50,8,3,11,Morning,68.0
+2026-08-03,Monday,7,13:30,AWS Training,Kiran,3,MCA,A+B Combined,Computer Lab,200,91,45.5,50.0,Practical,No,No,No,Rainy,No,Yes,9 years,0,8,50,8,3,13,Afternoon,55.333333333333336
+2026-08-04,Tuesday,1,08:30,CI/CD Session,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,139,69.5,45.5,Practical,No,Yes,No,Cloudy,No,Yes,9 years,1,8,51,8,4,8,Morning,47.333333333333336
+2026-08-04,Tuesday,2,09:00,Selenium Industry Input,Keshav Potdar,3,MCA,A+B Combined,Computer Lab,200,93,46.5,69.5,Practical,No,No,No,Cloudy,No,Yes,10 years,1,8,51,8,4,9,Morning,55.0
+2026-08-04,Tuesday,3,09:15,Project Milestone 1 Evaluation,Project Guides,3,MCA,A+B Combined,Computer Lab,200,160,80.0,46.5,Assessment,No,No,No,Rainy,No,Yes,7 years,1,8,51,8,4,9,Morning,53.833333333333336
+2026-08-04,Tuesday,4,10:15,Software Testing & Quality Assurance Hands-on,DPY,3,MCA,A+B Combined,Classroom beside Lab,200,113,56.5,80.0,Practical,No,No,No,Cloudy,No,Yes,8 years,1,8,51,8,4,10,Morning,65.33333333333333
+2026-08-04,Tuesday,5,11:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,144,72.0,56.5,Theory,No,No,No,Rainy,No,Yes,8 years,1,8,51,8,4,11,Morning,61.0
+2026-08-04,Tuesday,6,13:30,Data Science & Machine Learning,MLK,3,MCA,A+B Combined,Computer Lab,200,97,48.5,72.0,Practical,No,No,No,Cloudy,No,Yes,7 years,1,8,51,8,4,13,Afternoon,69.5
+2026-08-05,Wednesday,1,08:30,Project Milestone 1 Evaluation,Project Guides,3,MCA,A+B Combined,Classroom beside Lab,200,110,55.0,48.5,Assessment,No,No,No,Cloudy,No,Yes,10 years,2,8,52,8,5,8,Morning,59.0
+2026-08-05,Wednesday,2,09:00,Selenium Industry Input,Keshav Potdar,3,MCA,A+B Combined,Computer Lab,200,95,47.5,55.0,Practical,No,No,No,Rainy,No,Yes,8 years,2,8,52,8,5,9,Morning,58.5
+2026-08-05,Wednesday,3,09:15,Talenlio ERP Hands-on,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,179,89.5,47.5,Practical,No,No,No,Cloudy,No,Yes,10 years,2,8,52,8,5,9,Morning,50.333333333333336
+2026-08-05,Wednesday,4,10:15,Data Science & Machine Learning Hands-on,MLK,3,MCA,A+B Combined,Computer Lab,200,127,63.5,89.5,Practical,No,Yes,No,Rainy,No,Yes,8 years,2,8,52,8,5,10,Morning,64.0
+2026-08-05,Wednesday,5,11:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Computer Lab,200,109,54.5,63.5,Practical,No,No,No,Rainy,No,Yes,8 years,2,8,52,8,5,11,Morning,66.83333333333333
+2026-08-05,Wednesday,6,13:30,Data Science & Machine Learning,SP,3,MCA,A+B Combined,Computer Lab,200,94,47.0,54.5,Practical,No,No,No,Rainy,No,Yes,9 years,2,8,52,8,5,13,Afternoon,69.16666666666667
+2026-08-06,Thursday,1,08:30,Talenlio ERP Hands-on,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,179,89.5,47.0,Practical,No,No,No,Cloudy,No,Yes,8 years,3,8,53,8,6,8,Morning,55.0
+2026-08-06,Thursday,2,09:15,Mobile Application Development Hands-on,Visiting,3,MCA,A+B Combined,Computer Lab,200,96,48.0,89.5,Practical,No,No,No,Cloudy,No,Yes,10 years,3,8,53,8,6,9,Morning,63.666666666666664
+2026-08-06,Thursday,3,10:15,Industry Readiness Program - Technical Mock Interview,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,131,65.5,48.0,Theory,No,No,No,Rainy,No,Yes,10 years,3,8,53,8,6,10,Morning,61.5
+2026-08-06,Thursday,4,11:15,Cloud Computing Certification Training,SDM,3,MCA,A+B Combined,Classroom beside Lab,200,155,77.5,65.5,Practical,No,No,No,Cloudy,No,Yes,8 years,3,8,53,8,6,11,Morning,67.66666666666667
+2026-08-06,Thursday,5,13:30,AWS Training,Kiran,3,MCA,A+B Combined,Computer Lab,200,94,47.0,77.5,Practical,No,No,No,Cloudy,No,Yes,7 years,3,8,53,8,6,13,Afternoon,63.666666666666664
+2026-08-07,Friday,1,08:30,Industry Readiness Program - HR Mock Interview,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,154,77.0,47.0,Practical,No,Yes,No,Rainy,No,Yes,8 years,4,8,54,8,7,8,Morning,63.333333333333336
+2026-08-07,Friday,2,09:15,Mobile Application Development Hands-on,SSP,3,MCA,A+B Combined,Computer Lab,200,93,46.5,77.0,Practical,No,No,No,Rainy,No,Yes,8 years,4,8,54,8,7,9,Morning,67.16666666666667
+2026-08-07,Friday,3,10:15,CI/CD Session,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,142,71.0,46.5,Practical,No,Yes,No,Rainy,No,Yes,8 years,4,8,54,8,7,10,Morning,56.833333333333336
+2026-08-07,Friday,4,11:15,Mobile Application Development Hands-on,Visiting,3,MCA,A+B Combined,Classroom beside Lab,200,114,57.0,71.0,Practical,No,No,No,Rainy,No,Yes,10 years,4,8,54,8,7,11,Morning,64.83333333333333
+2026-08-07,Friday,5,13:30,AWS Training,Kiran,3,MCA,A+B Combined,Computer Lab,200,90,45.0,57.0,Practical,No,No,No,Rainy,No,Yes,9 years,4,8,54,8,7,13,Afternoon,58.166666666666664
+2026-08-08,Saturday,1,08:30,Selenium Industry Input,Keshav Potdar,3,MCA,A+B Combined,Classroom beside Lab,200,108,54.0,45.0,Practical,No,No,No,Cloudy,No,Yes,9 years,5,8,55,8,8,8,Morning,57.666666666666664
+2026-08-08,Saturday,2,09:15,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Classroom beside Lab,200,134,67.0,54.0,Theory,No,No,No,Cloudy,No,Yes,8 years,5,8,55,8,8,9,Morning,52.0
+2026-08-08,Saturday,3,09:30,Industry Readiness Program - Technical Mock Interview,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,95,47.5,67.0,Theory,No,No,No,Rainy,Yes,Yes,10 years,5,8,55,8,8,9,Morning,55.333333333333336
+2026-08-08,Saturday,4,10:15,AWS Training,Kiran,3,MCA,A+B Combined,Computer Lab,200,182,91.0,47.5,Practical,No,No,No,Cloudy,No,Yes,8 years,5,8,55,8,8,10,Morning,56.166666666666664
+2026-08-08,Saturday,5,11:15,CI/CD Session,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,176,88.0,91.0,Practical,No,No,No,Cloudy,No,Yes,9 years,5,8,55,8,8,11,Morning,68.5
+2026-08-08,Saturday,6,13:30,Project Milestone 1 Evaluation,Project Guides,3,MCA,A+B Combined,Classroom beside Lab,200,161,80.5,88.0,Assessment,No,No,No,Rainy,No,Yes,10 years,5,8,55,8,8,13,Afternoon,75.5
+2026-08-10,Monday,1,08:30,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Computer Lab,200,118,59.0,80.5,Theory,No,Yes,No,Rainy,No,Yes,8 years,0,9,57,8,10,8,Morning,86.5
+2026-08-10,Monday,2,09:15,Data Science & Machine Learning Hands-on,SP,3,MCA,A+B Combined,Computer Lab,200,93,46.5,59.0,Practical,No,No,No,Rainy,No,Yes,8 years,0,9,57,8,10,9,Morning,75.83333333333333
+2026-08-10,Monday,3,10:15,Data Science & Machine Learning Hands-on,SP,3,MCA,A+B Combined,Classroom beside Lab,200,161,80.5,46.5,Practical,No,No,No,Rainy,No,Yes,10 years,0,9,57,8,10,10,Morning,62.0
+2026-08-10,Monday,4,11:15,Mobile Application Development,SSP,3,MCA,A+B Combined,Classroom beside Lab,200,113,56.5,80.5,Practical,No,No,No,Rainy,No,Yes,7 years,0,9,57,8,10,11,Morning,62.0
+2026-08-10,Monday,5,13:30,AWS Training,Kiran,3,MCA,A+B Combined,Computer Lab,200,93,46.5,56.5,Practical,No,No,No,Rainy,No,Yes,9 years,0,9,57,8,10,13,Afternoon,61.166666666666664
+2026-08-11,Tuesday,1,08:30,Innovation and Entrepreneurship Development,JSP,3,MCA,A+B Combined,Classroom beside Lab,200,179,89.5,46.5,Theory,No,Yes,No,Rainy,No,Yes,8 years,1,9,58,8,11,8,Morning,61.166666666666664
+2026-08-11,Tuesday,2,09:15,Data Science & Machine Learning Hands-on,SP,3,MCA,A+B Combined,Computer Lab,200,93,46.5,89.5,Practical,No,No,No,Cloudy,No,Yes,10 years,1,9,58,8,11,9,Morning,64.16666666666667
+2026-08-11,Tuesday,3,10:15,Data Science & Machine Learning Hands-on,SP,3,MCA,A+B Combined,Classroom beside Lab,200,158,79.0,46.5,Practical,No,Yes,No,Cloudy,No,Yes,7 years,1,9,58,8,11,10,Morning,60.833333333333336
+2026-08-11,Tuesday,4,11:15,Software Testing & Quality Assurance Hands-on,DPY,3,MCA,A+B Combined,Classroom beside Lab,200,133,66.5,79.0,Practical,No,No,No,Rainy,No,Yes,10 years,1,9,58,8,11,11,Morning,71.66666666666667
+2026-08-11,Tuesday,5,13:30,AWS Training,Kiran,3,MCA,A+B Combined,Computer Lab,200,92,46.0,66.5,Practical,No,No,No,Cloudy,No,Yes,7 years,1,9,58,8,11,13,Afternoon,64.0
+2026-08-12,Wednesday,1,08:30,Innovation and Entrepreneurship Development,Visiting,3,MCA,A+B Combined,Computer Lab,200,176,88.0,46.0,Theory,No,No,No,Cloudy,No,Yes,9 years,2,9,59,8,12,8,Morning,63.833333333333336
+2026-08-12,Wednesday,2,09:15,Software Testing & Quality Assurance Hands-on,AAB,3,MCA,A+B Combined,Computer Lab,200,93,46.5,88.0,Practical,No,No,No,Rainy,No,Yes,8 years,2,9,59,8,12,9,Morning,66.83333333333333
+2026-08-12,Wednesday,3,10:15,Mobile Application Development Hands-on,SSP,3,MCA,A+B Combined,Computer Lab,200,148,74.0,46.5,Practical,No,No,No,Cloudy,No,Yes,8 years,2,9,59,8,12,10,Morning,60.166666666666664
+2026-08-12,Wednesday,4,11:15,CI/CD Session,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,125,62.5,74.0,Practical,No,Yes,No,Cloudy,No,Yes,7 years,2,9,59,8,12,11,Morning,69.5
+2026-08-12,Wednesday,5,13:30,AWS Training,Kiran,3,MCA,A+B Combined,Computer Lab,200,90,45.0,62.5,Practical,No,No,No,Rainy,No,Yes,9 years,2,9,59,8,12,13,Afternoon,61.0
+2026-08-13,Thursday,1,08:30,Industry Readiness Program - Technical Mock Interview,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,129,64.5,45.0,Theory,No,No,No,Cloudy,No,Yes,10 years,3,9,60,8,13,8,Morning,60.5
+2026-08-13,Thursday,2,09:15,Software Testing & Quality Assurance Hands-on,DPY,3,MCA,A+B Combined,Computer Lab,200,96,48.0,64.5,Practical,No,No,No,Cloudy,No,Yes,10 years,3,9,60,8,13,9,Morning,57.333333333333336
+2026-08-13,Thursday,3,10:15,Industry Readiness Program - HR Mock Interview,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,159,79.5,48.0,Practical,No,No,No,Rainy,No,Yes,7 years,3,9,60,8,13,10,Morning,52.5
+2026-08-13,Thursday,4,11:15,Mini Project,Project Guides,3,MCA,A+B Combined,Computer Lab,200,169,84.5,79.5,Practical,No,No,No,Rainy,No,Yes,8 years,3,9,60,8,13,11,Morning,64.0
+2026-08-13,Thursday,5,13:30,AWS Training,Kiran,3,MCA,A+B Combined,Computer Lab,200,93,46.5,84.5,Practical,No,No,No,Cloudy,No,Yes,7 years,3,9,60,8,13,13,Afternoon,70.66666666666667
+2026-08-14,Friday,1,08:30,Industry Readiness Program - Technical Mock Interview,Placement/T&P,3,MCA,A+B Combined,Computer Lab,200,170,85.0,46.5,Theory,No,No,No,Cloudy,No,Yes,8 years,4,9,61,8,14,8,Morning,70.16666666666667
+2026-08-14,Friday,2,09:15,Data Science & Machine Learning Hands-on,MLK,3,MCA,A+B Combined,Computer Lab,200,188,94.0,85.0,Practical,No,Yes,No,Rainy,No,Yes,7 years,4,9,61,8,14,9,Morning,72.0
+2026-08-14,Friday,3,10:15,Industry Readiness Program - HR Mock Interview,Placement/T&P,3,MCA,A+B Combined,Classroom beside Lab,200,111,55.5,94.0,Practical,No,No,No,Rainy,No,Yes,8 years,4,9,61,8,14,10,Morning,75.16666666666667
+2026-08-14,Friday,4,11:15,Soft Skill Session,Soham Dadarkar,3,MCA,A+B Combined,Classroom beside Lab,200,170,85.0,55.5,Theory,No,No,No,Cloudy,No,Yes,10 years,4,9,61,8,14,11,Morning,78.16666666666667
+2026-08-14,Friday,5,13:30,AWS Training,Kiran,3,MCA,A+B Combined,Computer Lab,200,90,45.0,85.0,Theory,No,No,No,Cloudy,No,Yes,8 years,4,9,61,8,14,13,Afternoon,78.16666666666667
